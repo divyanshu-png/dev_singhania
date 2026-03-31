@@ -1,2 +1,2 @@
 # dev_singhania
-First git repository. Author_\ Divyanshu Singh
+First git repository. <br>Author_\ Divyanshu Singh
